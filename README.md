@@ -13,8 +13,10 @@ A simple Hangman game built in Python as part of my CodeAlpha internship tasks.
    ```bash
    git clone https://github.com/your-username/CodeAlpha_Hangman.git
 Bash 
+
 python hangman.py
-   Guess the word!
+
+ Guess the word!
 _ _ _ _ _ 
 Enter a letter: a
 Good guess: a _ _ _ _
