@@ -11,8 +11,9 @@ A simple Hangman game built in Python as part of my CodeAlpha internship tasks.
 ## ▶️ How to Run
 1. Download or clone this repository.  
    ```bash
-   git clone https://github.com/your-username/CodeAlpha_Hangman.git
-Bash 
+   git clone https://github.com/Musawar-Ali/CodeAlpha_Hangman.git
+   
+Bash
 
 python hangman.py
 
