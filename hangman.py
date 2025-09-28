@@ -6,7 +6,7 @@ Simple text-based Hangman game.
 Usage:
     python hangman.py        # interactive play
     python hangman.py --seed 42   # deterministic for demo
-Author: Your Name
+Author: Musawar Ali 
 """
 
 import random
